@@ -1,0 +1,54 @@
+Project
+├── step-0 = --/--/----
+├── step-1 = --/--/----
+├── step-2 = --/--/----
+├── step-3 = --/--/----
+└── step-4 = --/--/----
+
+
+project.pdf
+├── front_page.pdf
+└── main.pdf
+    └── main.md
+        └── main.fmd
+            ├── index.fmd (#index)
+            ├── introduction.fmd (#introduction)
+            └── conclusion.fmd (#conclusion)
+
+
+project.pdf
+├── Index (#index)
+├── Introduction (#introduction)
+│   ├── Development (#development)
+│   └── Summary (#summary)
+└── Conclusion (#conclusion)
+
+
+https://github.com/{user}/{project}/tree/main/
+├── .git/...
+├── .structure
+├── step-0/
+│   ├── .todo
+│   └── project.pdf
+├── step-1/
+│   ├── .todo
+│   ├── front_page.pdf
+│   └── main.pdf
+├── step-2/
+│   ├── .todo
+│   ├── main.md
+│   └── images/
+│       ├── 1.png
+│       ├── 2.png
+│       ├── 3.png
+│       └── jpegtopng.py
+├── step-3/
+│   ├── .todo
+│   ├── main.fmd
+│   └── fmdcompiler.py
+└── step-4/
+    ├── .todo
+    ├── index.fmd
+    ├── introduction.fmd
+    └── conclusion.fmd
+

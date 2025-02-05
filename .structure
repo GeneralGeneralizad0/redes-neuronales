@@ -6,25 +6,24 @@ Project
 └── step-4 = --/--/----
 
 
-project.pdf
+rrnn.pdf
 ├── front_page.pdf
 └── main.pdf
     └── main.md
         └── main.fmd
-            ├── index.fmd (#index)
-            ├── introduction.fmd (#introduction)
-            └── conclusion.fmd (#conclusion)
+            └── 01=redes-neuronales-artificiales.fmd (#redes-neuronales-artificiales)
 
 
-project.pdf
-├── Index (#index)
-├── Introduction (#introduction)
-│   ├── Development (#development)
-│   └── Summary (#summary)
-└── Conclusion (#conclusion)
+rrnn.pdf
+└── Redes neuronales artificiales (#redes-neuronales-artificiales)
+    ├── Origen (#origen)
+    ├── Neuronas (#neuronas)
+    ├── Enlaces (#enlaces)
+    ├── Cálculo simple (#cálculo-simple)
+    └── Cálculo (#cálculo)
 
 
-https://github.com/{user}/{project}/tree/main/
+https://github.com/alejandro-vaz/redes-neuronales/tree/main/
 ├── .git/...
 ├── .structure
 ├── step-0/
@@ -48,7 +47,5 @@ https://github.com/{user}/{project}/tree/main/
 │   └── fmdcompiler.py
 └── step-4/
     ├── .todo
-    ├── index.fmd
-    ├── introduction.fmd
-    └── conclusion.fmd
+    └── 01=redes-neuronales-artificiales.fmd
 
